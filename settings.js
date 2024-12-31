@@ -6,7 +6,7 @@ You don't have to set this if you deploy using heroku because you can simply set
 const session = process.env.SESSION || '';
 
 const prefix = process.env.PREFIX || '.';
-const mycode = process.env.CODE || "254";
+const mycode = process.env.CODE || "91";
 const author = process.env.STICKER_AUTHOR || ' 𝐒𝐔𝐁𝐀𝐑𝐔';
 const packname = process.env.PACKNAME || '◤━━━𝐓𝐇𝐄 𝐆𝐑𝐄𝐀𝐓 𝐒𝐔𝐁𝐀𝐑𝐔━━━◥';
 const dev = process.env.DEV || '919614477116';
